@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @morningglory05
 - 👀 I’m interested in neuronal modelling and dynamical system analysis.
-- 🌱 I’m currently learning how to code in Julia to support my mathematical research.
+- 🌱 I’m currently coding in Julia to support my mathematical research.
 
 
 <!---
